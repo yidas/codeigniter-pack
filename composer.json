@@ -1,0 +1,20 @@
+{
+    "name": "yidas/codeigniter-pack",
+    "description": "Codeigniter 3 enhanced & modern framework extensions pack",
+    "keywords": ["codeIgniter", "codeIgniter3", "pack", "framework", "extensions", "library"],
+    "homepage": "https://github.com/yidas/codeigniter-pack",
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/yidas/codeigniter-pack/issues",
+        "source": "https://github.com/yidas/codeigniter-pack"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yidas/codeigniter-psr4-autoload": "*",
+        "yidas/codeigniter-model": "*",
+        "yidas/codeigniter-rest": "*",
+        "yidas/codeigniter-phpunit": "*"
+    }
+}
