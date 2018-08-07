@@ -1,6 +1,6 @@
 {
     "name": "yidas/codeigniter-pack",
-    "description": "Codeigniter 3 enhanced & modern framework extensions pack",
+    "description": "Codeigniter 3 complete solution pack with enhanced & modern framework extensions ",
     "keywords": ["codeIgniter", "codeIgniter3", "pack", "framework", "extensions", "library"],
     "homepage": "https://github.com/yidas/codeigniter-pack",
     "type": "library",
@@ -15,6 +15,8 @@
         "yidas/codeigniter-psr4-autoload": "*",
         "yidas/codeigniter-model": "*",
         "yidas/codeigniter-rest": "*",
-        "yidas/codeigniter-phpunit": "*"
+        "yidas/codeigniter-widget": "*",
+        "yidas/codeigniter-phpunit": "*",
+        "yidas/codeigniter-queue-worker": "*"
     }
 }
