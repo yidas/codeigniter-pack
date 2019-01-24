@@ -9,7 +9,6 @@
 Codeigniter 3 complete solution pack with enhanced & modern framework extensions 
 
 [![Latest Stable Version](https://poser.pugx.org/yidas/codeigniter-pack/v/stable?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-pack)
-[![Latest Unstable Version](https://poser.pugx.org/yidas/codeigniter-pack/v/unstable?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-pack)
 [![License](https://poser.pugx.org/yidas/codeigniter-pack/license?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-pack)
 
 Codeigniter 3 is a great PHP framewrok with lite portability and high performance, but nowadays it is not so powerful and lacks of design pattern. There are still many maintenance requirements, even suitable development scenario for Codeigniter 3, so this framework pack provides a total sulotion to enhance and modernize Codeigniter 3 with collection of helpful extensions. 
