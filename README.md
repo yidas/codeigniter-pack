@@ -11,7 +11,7 @@ Codeigniter 3 complete solution pack with enhanced & modern framework extensions
 [![Latest Stable Version](https://poser.pugx.org/yidas/codeigniter-pack/v/stable?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-pack)
 [![License](https://poser.pugx.org/yidas/codeigniter-pack/license?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-pack)
 
-Codeigniter 3 is a great PHP framewrok with lite portability and high performance, but nowadays it is not so powerful and lacks of design pattern. There are still many maintenance requirements, even suitable development scenario for Codeigniter 3, so this framework pack provides a total sulotion to enhance and modernize Codeigniter 3 with collection of helpful extensions. 
+Codeigniter 3 is a great PHP framework with lite portability and high performance, but nowadays it is not so powerful and lacks of design pattern. There are still many maintenance requirements, even suitable development scenario for CodeIgniter 3, so this framework pack provides a total solution to enhance and modernize CodeIgniter 3 with collection of helpful extensions. 
 
 ---
 
@@ -48,11 +48,11 @@ This library requires the following:
 INSTALLATION
 ------------
 
-Run Composer in your Codeigniter project under the folder `\application`:
+Run Composer in your CodeIgniter project under the folder `\application`:
 
     composer require yidas/codeigniter-pack
     
-Check Codeigniter `application/config/config.php`:
+Check CodeIgniter `application/config/config.php`:
 
 ```php
 $config['composer_autoload'] = TRUE;
