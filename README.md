@@ -96,8 +96,6 @@ CONFIGURATION
 
 The necessary configurations of the extensions are below:
 
-- [PSR-4 Configuration](https://github.com/yidas/codeigniter-psr4-autoload#configuration)
-
 - [UnitTest Configuration](https://github.com/yidas/codeigniter-phpunit#configuration)
 
 ---
